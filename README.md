@@ -12,4 +12,6 @@ There are 570 names at the moment of publication (11/30/2020)
 
 ![](TPD.JPG)
 
+## The wordclouds.com final result
+As we can see, the most often used words are life, family, love, sorry, thank, want. 
 ![](wordcloud_result.png)
