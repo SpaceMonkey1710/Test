@@ -11,3 +11,5 @@ Executed prisoners table
 There are 570 names at the moment of publication (11/30/2020)
 
 ![](TPD.JPG)
+
+![](wordcloud_result (1).png)
